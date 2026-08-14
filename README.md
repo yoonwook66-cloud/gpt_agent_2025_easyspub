@@ -1,1 +1,1 @@
-# gpt_agent_2025_easyspub
+# LLM을 활용한 AI 에이전트 개발 입문
